@@ -17,26 +17,12 @@
 </div>
 
 <h2>💻 Tech & Skills</h2>
-<ul>
-  <li>Python, JavasCript, C#</li>
-  <li>Coding philosophy: Clean, efficient, and sometimes nihilistic (why comment if nothing matters?).</li>
-</ul>
+<div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python,cs)](https://skillicons.dev)
+</div>
+<p>Coding philosophy: Clean, efficient, and sometimes nihilistic (why comment if nothing matters?).</p>
 <h2>📖 Favorite Quote</h2>
 <p>"We must imagine Sisyphus happy." — Albert Camus</p>
 <p>(Or in code terms: while(true) { rollBoulder(); })</p>
 
 <p>⭐ Welcome to my profile! If you share a love for code, philosophy, or the absurd, let’s talk.</p>
-<!--
-**IsaacOrlando-web/IsaacOrlando-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
