@@ -24,7 +24,32 @@
 </p>
 <p>Coding philosophy: Clean, efficient, and sometimes nihilistic (why comment if nothing matters?).</p>
 <h2>📖 Favorite Quote</h2>
-<p>"We must imagine Sisyphus happy." — Albert Camus</p>
-<p>(Or in code terms: while(true) { rollBoulder(); })</p>
+<div align="center" style="margin: 40px 0">
+  <blockquote style="
+    border-left: 4px solid #2dba4e;
+    padding: 10px 20px;
+    background: #f8f9fa;
+    font-style: italic;
+    font-size: 1.2em;
+    max-width: 600px;
+    margin: 20px auto;
+  ">
+    "We must imagine Sisyphus happy."<br>
+    <footer style="text-align: right; color: #6c757d;">— Albert Camus</footer>
+  </blockquote>
+
+  <pre style="
+    background: #282c34;
+    color: #abb2bf;
+    padding: 15px;
+    border-radius: 5px;
+    max-width: 400px;
+    margin: 0 auto;
+    overflow-x: auto;
+  "><code>while (true) {
+  rollBoulder();
+  // The struggle itself is enough
+}</code></pre>
+</div>
 
 <p>⭐ Welcome to my profile! If you share a love for code, philosophy, or the absurd, let’s talk.</p>
