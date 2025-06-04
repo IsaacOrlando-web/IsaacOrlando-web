@@ -17,9 +17,11 @@
 </div>
 
 <h2>💻 Tech & Skills</h2>
-<div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python,cs)](https://skillicons.dev)
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,css,html,js,py,wordpress" />
+  </a>
+</p>
 <p>Coding philosophy: Clean, efficient, and sometimes nihilistic (why comment if nothing matters?).</p>
 <h2>📖 Favorite Quote</h2>
 <p>"We must imagine Sisyphus happy." — Albert Camus</p>
