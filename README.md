@@ -22,6 +22,7 @@
     <img src="https://skillicons.dev/icons?i=cs,css,html,js,py,wordpress" />
   </a>
 </p>
+<a href="https://isaacorlando-web.github.io/portfolio/">See My Personal Portafolio</a>
 <p>Coding philosophy: Clean, efficient, and sometimes nihilistic (why comment if nothing matters?).</p>
 <h2>📖 Favorite Quote</h2>
 <div align="center" style="margin: 40px 0">
